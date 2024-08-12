@@ -1,17 +1,17 @@
-intro=Introduction
+intro=簡介
 
-alloyer=Alloyer
+alloyer=合金
 
-foundry=Foundry
+foundry=鑄造廠
 
-blazing_blood=Blazing Blood
+blazing_blood=熾熱之血
 
-armor=Fantastic Armor
-armor.subtext=Using Nether resources grants access to create higher tiers of armor. For instance, the mighty plate armor boasts a high defense, but less modifiability. Who needs extra features when you can be protected?
+armor=神奇的鎧甲
+armor.subtext=使用下界資源可以創造更高等級的盔甲。例如，強大的板甲擁有高防禦力，但可修改性較差。當您可以受到保護時，誰還需要額外的功能？
 
-melee_harvest_materials=Tier 4 Melee Harvest Materials
-melee_harvest_materials.subtext=These materials require blazing blood to create, and can be used to create tool parts for melee weapons or harvest tools.
-ranged_materials=Tier 4 Ranged Materials
-ranged_materials.subtext=These materials require blazing blood to create, and can be used to create tool parts for ranged weapons like bows.
-armor_materials=Tier 4 Armor Materials
-armor_materials.subtext=These materials can be casted into armor and shields.
+melee_harvest_materials=4 級近戰收穫材料
+melee_harvest_materials.subtext=這些材料需要熾熱的血液來製造，可以用來製造近戰武器或收割工具的工具零件。
+ranged_materials=4級範圍材料
+ranged_materials.subtext=這些材料需要熾熱的血液來製造，可以用來製造弓箭等遠程武器的工具零件。
+armor_materials=4級裝甲材料
+armor_materials.subtext=這些材料可以鑄造成盔甲和盾牌。

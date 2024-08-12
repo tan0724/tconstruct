@@ -1,0 +1,15 @@
+{
+  "modifier_id": "tconstruct:pierce",
+  "text": [
+    {
+      "text": "Adds +0.5 melee damage per level. Melee attacks cancel out 1 point of armor per level."
+    }
+  ],
+  "more_text_space": true,
+  "tool_filter": "tconstruct:modifiable/melee",
+  "effects": [
+    "可以逐步應用級別",
+    "最多 3 levels",
+    "每級需要 1 個升級槽"
+  ]
+}

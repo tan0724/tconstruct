@@ -1,0 +1,18 @@
+{
+  "modifier_id": "tconstruct:luck",
+  "text": [
+    {
+      "text": "Increases drop rates from both blocks (harvest tools only) and monsters. Luck requires a different recipe for each level, applied in order."
+    },
+    {
+      "text": "Leggings can receive a 單層 of luck, which boosts drops from mobs and drops from blocks when using tinker tools.",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最多 3 levels",
+    "First level 需要 1 個能力槽",
+    "Second and third levels are slotless"
+  ]
+}

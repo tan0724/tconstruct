@@ -1,0 +1,15 @@
+{
+  "modifier_id": "tconstruct:freezing",
+  "text": [
+    {
+      "text": "凍結被攻擊的生物 4 秒（每級加 4 秒），隨著時間的推移和緩慢造成傷害。"
+    }
+  ],
+  "more_text_space": true,
+  "tool_filter": "tconstruct:modifiable/melee",
+  "effects": [
+    "最多 3 levels",
+    "與燃燒效果不佳",
+    "每級需要 1 個升級槽"
+  ]
+}

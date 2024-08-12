@@ -1,0 +1,15 @@
+{
+  "modifier_id": "tconstruct:haste",
+  "text": [
+    {
+      "text": "Grants +10% mining speed per level for all held tools."
+    }
+  ],
+  "more_text_space": true,
+  "tool_filter": "tconstruct:modifiable/armor",
+  "effects": [
+    "可以逐步應用級別",
+    "最多 5 levels",
+    "每級需要 1 個升級槽"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:sinistral",
+  "text": [
+    {
+      "text": "使弩在攻擊時開火而不是互動，並且僅在不潛行時加載。允許在使用十字弓時副手使用物品。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "單層",
+    "需要 1 個升級槽"
+  ]
+}

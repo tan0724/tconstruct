@@ -1,0 +1,15 @@
+{
+  "modifier_id": "tconstruct:pierce",
+  "text": [
+    {
+      "text": "每提升一級，箭矢會抵銷 1 點護甲值。"
+    }
+  ],
+  "more_text_space": true,
+  "tool_filter": "tconstruct:modifiable/ranged",
+  "effects": [
+    "可以逐步應用級別",
+    "最多 3 levels",
+    "每級需要 1 個升級槽"
+  ]
+}

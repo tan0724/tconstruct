@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:strength",
+  "text": [
+    {
+      "text": "Grants +10% attack damage to all weapons per level."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "可以逐步應用級別",
+    "需要 1 個能力槽 per level"
+  ]
+}

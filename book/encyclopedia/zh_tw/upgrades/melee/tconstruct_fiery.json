@@ -1,0 +1,15 @@
+{
+  "modifier_id": "tconstruct:fiery",
+  "text": [
+    {
+      "text": "使受到攻擊的生物燃燒，每等級持續 5 秒。"
+    }
+  ],
+  "more_text_space": true,
+  "tool_filter": "tconstruct:modifiable/melee",
+  "effects": [
+    "可以逐步應用級別",
+    "最多 5 levels",
+    "每級需要 1 個升級槽"
+  ]
+}

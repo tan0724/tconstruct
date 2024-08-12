@@ -1,0 +1,17 @@
+{
+  "modifier_id": "tconstruct:knockback",
+  "text": [
+    {
+      "text": "每級給予 1 次擊退，將怪物發射約 2 個方塊。大多數工具的擊退值都是 0.4。"
+    },
+    {
+      "text": "每公升一級，使投擲、彈跳和撞擊的效果提高 25%。", "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "tool_filter": "tconstruct:modifiable/melee",
+  "effects": [
+    "最多 5 levels",
+    "每級需要 1 個升級槽"
+  ]
+}

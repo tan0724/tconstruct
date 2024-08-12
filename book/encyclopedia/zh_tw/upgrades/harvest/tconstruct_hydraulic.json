@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:hydraulic",
+  "text": [
+    {
+      "text": "在雨中每升一級，採礦速度+4。在水下時，每級獲得 +8 採礦速度，繞過水下採礦的正常減益效果。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "可以逐步應用級別",
+    "最多 5 levels",
+    "每級需要 1 個升級槽"
+  ]
+}

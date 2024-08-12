@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:severing",
+  "text": [
+    {
+      "text": "每升一級，生物有 5% 的幾率掉落頭部或其他身體部位。每幸運等級乘以斬首等級，運氣就會額外增加 1% 的幾率。對抗諸如 Boss 之類的稀有生物，幾率會加倍。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最多 3 levels",
+    "每級需要 1 個升級槽"
+  ]
+}

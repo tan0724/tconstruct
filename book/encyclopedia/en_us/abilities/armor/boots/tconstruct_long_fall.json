@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:long_fall",
+  "text": [
+    {
+      "text": "中和所有墜落傷害。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最高為 1 級",
+    "需要 羽落(? IV",
+    "需要 1 個能力槽"
+  ]
+}

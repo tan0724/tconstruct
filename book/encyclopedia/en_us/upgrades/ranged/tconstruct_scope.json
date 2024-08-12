@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:scope",
+  "text": [
+    {
+      "text": "當弓拉回來時放大遠處的物體。完全繪製後，其尺寸比望遠鏡小一些。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "單層",
+    "需要 1 個升級槽"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "modifier_id": "tconstruct:fiery",
+  "text": [
+    {
+      "text": "使射出的箭被點燃，擊中的目標燃燒。"
+    }
+  ],
+  "more_text_space": true,
+  "tool_filter": "tconstruct:modifiable/ranged",
+  "effects": [
+    "可以逐步應用級別",
+    "最多 5 levels",
+    "與冰凍效果不佳",
+    "每級需要 1 個升級槽"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:necrotic",
+  "text": [
+    {
+      "text": "致命一擊可治療每等級所造成傷害的 5%。每升一級，工具就會損失 1 點額外的耐久度。"
+    }
+  ],
+  "more_text_space": true,
+  "tool_filter": "tconstruct:modifiable/melee",
+  "effects": [
+    "最多 5 levels",
+    "每級需要 1 個升級槽"
+  ]
+}

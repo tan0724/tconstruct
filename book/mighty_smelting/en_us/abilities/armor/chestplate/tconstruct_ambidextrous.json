@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:ambidextrous",
+  "text": [
+    {
+      "text": "Everybody is Kung Fu Fighting."
+    }
+  ],
+  "effects": [
+    "Allows punching with both hands",
+    "單層",
+    "需要 1 個能力槽"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "modifier_id": "tconstruct:freezing",
+  "text": [
+    {
+      "text": "凍結任何被箭射中的實體 4 秒（每級加 4 秒），隨著時間的推移和緩慢造成傷害。"
+    }
+  ],
+  "more_text_space": true,
+  "tool_filter": "tconstruct:modifiable/ranged",
+  "effects": [
+    "最多 3 levels",
+    "與火焰效果衝突",
+    "每級需要 1 個升級槽"
+  ]
+}

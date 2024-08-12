@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:sweeping_edge",
+  "text": [
+    {
+      "text": "增加劍的橫掃攻擊造成的傷害量。使該工具在 1 級時造成主攻擊傷害的 25%，在 2 級時造成 50% 的傷害，在 3 級時造成 75% 的傷害。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "可以逐步應用級別",
+    "最多 3 levels",
+    "每級需要 1 個升級槽"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:punch",
+  "text": [
+    {
+      "text": "Here comes the punchline."
+    }
+  ],
+  "effects": [
+    "Increases knockback on fired projectiles",
+	"Multiple levels, each level increases knockback further",
+	"每級需要 1 個升級槽"
+  ]
+}

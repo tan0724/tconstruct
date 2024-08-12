@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:silky",
+  "text": [
+    {
+	"text": "Causes mined blocks to drop themselves unmodified. For swords, cleavers, scythes, and daggers, additionally allows shearing mobs."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最高為 1 級",
+    "需要 1 個能力槽"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:necrotic",
+  "text": [
+    {
+      "text": "充滿能量的箭可以治療所造成傷害的一定百分比。 1 級時治癒 25%，2 級時治癒 45%，3 級時治癒 60%，4 級時治癒 70%，5 級時治癒 75%。"
+    }
+  ],
+  "more_text_space": true,
+  "tool_filter": "tconstruct:modifiable/ranged",
+  "effects": [
+    "最多 5 levels",
+    "每級需要 1 個升級槽"
+  ]
+}

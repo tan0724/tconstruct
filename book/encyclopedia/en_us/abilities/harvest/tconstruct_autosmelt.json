@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:autosmelt",
+  "text": [
+    {
+      "text": "Causes items dropped from mined blocks to be smelted, as if in a furnace."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最高為 1 級",
+    "需要 1 個能力槽"
+  ]
+}

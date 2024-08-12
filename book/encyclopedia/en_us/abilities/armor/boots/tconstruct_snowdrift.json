@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:snowdrift",
+  "text": [
+    {
+      "text": "在涼爽的生物群落中留下雪跡，就像雪人一樣。可以使用擴展來增加路徑半徑。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最高為 1 級",
+    "需要 1 個能力槽"
+  ]
+}

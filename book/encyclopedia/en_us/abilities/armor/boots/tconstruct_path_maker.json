@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:path_maker",
+  "text": [
+    {
+      "text": "當你邁步時，草地會變成草逕，留下一條路。擴大影響範圍。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最高為 1 級",
+    "需要 1 個能力槽"
+  ]
+}

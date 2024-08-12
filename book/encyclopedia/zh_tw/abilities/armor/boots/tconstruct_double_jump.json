@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:double_jump",
+  "text": [
+    {
+      "text": "允許你在進行二段跳。更高的等級會增加額外的跳躍次數，允許三段跳甚至是四段跳。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "無最高等級",
+    "需要 1 個能力槽"
+  ]
+}

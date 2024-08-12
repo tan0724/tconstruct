@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:flamewake",
+  "text": [
+    {
+      "text": "走過必留下火焰。效果範圍因升級而擴大。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最高為 1 級",
+    "需要 1 個能力槽"
+  ]
+}
